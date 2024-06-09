@@ -2,4 +2,4 @@
 
 ### [Live Site](https://metaverse-sage-psi.vercel.app/)
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+![Chat Application](https://i.postimg.cc/brn2dWmv/7.png)
